@@ -29,7 +29,6 @@ DevSora is an open-source platform built by students for students, focused on te
 1. **Fork and Clone the Repo**
 - git clone https://github.com/DevSora-Org/devsora.git
 
-text
 2. **Read the Setup Guide**
 - See the `docs/` folder for setup instructions, contribution guidelines, and architecture overview.
 3. **Start Contributing**
@@ -55,7 +54,7 @@ text
 
 ## 📝 License
 
-- **Platform Code:** MIT License (see [LICENSE](./LICENSE))
+- **Platform Code:** GPL3.0 License
 - **Course Content & Mascot Assets:** All rights reserved by DevSora. Not for redistribution.
 
 ---
