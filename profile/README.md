@@ -34,7 +34,6 @@ DevSora is an open-source platform built by students for students, focused on te
 ## 🤝 Join the Community
 
 - **Website:** [www.devsora.com](https://www.devsora.com)
-- **Discord:** [Join our server](https://discord.gg/devsora)
 - **Contact:** info@devsora.com
 
 ---
