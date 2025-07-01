@@ -24,19 +24,6 @@ DevSora is an open-source platform built by students for students, focused on te
 
 ---
 
-## 🛠️ Getting Started
-
-1. **Fork and Clone the Repo**
-- git clone https://github.com/DevSora-Org/devsora.git
-
-2. **Read the Setup Guide**
-- See the `docs/` folder for setup instructions, contribution guidelines, and architecture overview.
-3. **Start Contributing**
-- Check out open issues or suggest new features.
-- All skill levels welcome!
-
----
-
 ## 📚 Courses & Content
 
 - **Open Source Codebase:** All platform features and infrastructure are open source.
