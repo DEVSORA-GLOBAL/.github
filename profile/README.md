@@ -27,7 +27,7 @@ DevSora is an open-source platform built by students for students, focused on te
 ## 📚 Courses & Content
 
 - **Open Source Codebase:** All platform features and infrastructure are open source.
-- **Proprietary Content:** Course materials, mascot assets, and animations are proprietary and not included in this repository. See our [content policy](./CONTENT_POLICY.md) for details.
+- **Proprietary Content:** Course materials, mascot assets, and animations are proprietary and not included in this repository.
 
 ---
 
@@ -42,12 +42,6 @@ DevSora is an open-source platform built by students for students, focused on te
 
 - **Platform Code:** GPL3.0 License
 - **Course Content & Mascot Assets:** All rights reserved by DevSora. Not for redistribution.
-
----
-
-## 💡 Contributing
-
-We welcome all contributors! Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get started.
 
 ---
 
