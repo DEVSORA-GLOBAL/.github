@@ -4,7 +4,10 @@ Welcome to **DevSora**, an open-source, community-driven EdTech platform dedicat
 
 ## 🚀 About DevSora
 
-DevSora is designed for anyone aspiring to enter the IT industry. Whether you want to learn coding, development, robotics, or other in-demand skills, DevSora helps you become job- and internship-ready. Our platform goes beyond just learning—it connects you with peers for hackathons, startups, and collaborative projects, creating a vibrant developer community.
+DevSora is designed for anyone aspiring to enter the IT industry. Whether you want to learn coding, development, robotics, or other in-demand skills, DevSora helps you become job and internship-ready. Our platform goes beyond just learning-it connects you with peers for hackathons, startups, and collaborative projects, creating a vibrant developer community.
+
+> [!NOTE]
+> Alpha Version will **NOT** be open-source.
 
 ## ✨ Platform Highlights
 
@@ -37,7 +40,7 @@ DevSora is designed for anyone aspiring to enter the IT industry. Whether you wa
 - **Project-Based Learning:** Build and showcase real-world projects.
 - **Gamification:** Earn badges, climb leaderboards, and personalize your journey.
 - **Collaboration:** Join squads, participate in hackathons, and connect with peers.
-- **Open Contribution:** Suggest features, report bugs, or submit pull requests—everyone can shape DevSora.
+- **Open Contribution:** Suggest features, report bugs, or submit pull requests-everyone can shape DevSora.
 
 ## 📦 Courses & Content
 
@@ -54,6 +57,4 @@ DevSora is designed for anyone aspiring to enter the IT industry. Whether you wa
 - **Platform Code:** GPL 3.0 License
 - **Course Content & Mascot Assets:** All rights reserved by DevSora. Not for redistribution.
 
-> Learning should be free. Join us in building the future of education—open, collaborative, and limitless.
-
-_Last updated: July 13, 2025_
+> Learning should be free. Join us in building the future of education-open, collaborative, and limitless.
